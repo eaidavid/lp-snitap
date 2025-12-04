@@ -97,3 +97,16 @@ footer {
 
 
 }
+
+@media (max-width: 768px) {
+    footer {
+        flex-direction: column;
+        gap: 2rem;
+
+        & nav {
+            order: 3;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+    }
+}

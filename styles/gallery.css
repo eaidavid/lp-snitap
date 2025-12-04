@@ -111,3 +111,14 @@ section.gallery {
     }
     
 }
+
+@media (max-width: 768px) {
+    section.gallery .content {
+        grid-template-areas: 
+        "A"
+        "B"
+        "C"
+        "D";
+
+    }
+}
