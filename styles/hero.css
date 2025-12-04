@@ -6,7 +6,6 @@ section.hero {
 
     display: flex;
     align-items: center;
-    overflow: hidden;
     justify-content: space-between;
 
     & h1 {
@@ -81,6 +80,7 @@ section.hero {
         width: 100%;
         max-width: 30.5rem;
         height: 30.5rem;
+        
 
 
         & .content {            width: 100%;
