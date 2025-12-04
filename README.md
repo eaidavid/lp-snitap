@@ -90,10 +90,8 @@ Landing page desenvolvida para a **Snitap**, uma marca de patins focada em promo
 
 #### Marca
 
-<div align="center">
-
 | Nome | Hexadecimal | Uso |
-|---------|------|-------------|-----|
+|------|-------------|-----|
 | snitap-sun | `#FFCD1E` | Botões principais |
 | snitap-sky-mid | `#068BD4` | Backgrounds |
 | snitap-sky-light | `#67E8F9` | Decorativos |
@@ -101,19 +99,14 @@ Landing page desenvolvida para a **Snitap**, uma marca de patins focada em promo
 | snitap-joy-light | `#F472B6` | Acentos |
 | Brand Green | `#16A34A` | "saudável" |
 
-</div>
-
 #### Base
 
-<div align="center">
-
 | Nome | Hexadecimal | Uso |
-|---------|------|-------------|-----|
+|------|-------------|-----|
 | Text | `#000000` | Textos principais |
 | Highlight | `#000000` | Destaques |
 | Background | `#FAFAFA` | Fundo da página |
 
-</div>
 
 ---
 
